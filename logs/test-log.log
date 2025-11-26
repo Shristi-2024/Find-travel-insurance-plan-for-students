@@ -1,0 +1,1690 @@
+2025-10-01 10:23:09 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:23:09 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:23:09 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:23:10 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:23:10 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:23:10 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:23:13 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:23:13 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:23:13 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:23:25 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:23:25 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:23:25 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:23:36 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:23:36 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:23:36 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:23:36 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:23:36 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:23:36 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:23:37 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:23:37 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:23:37 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:23:37 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:23:37 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:23:37 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:23:38 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> id: name-form-control]
+2025-10-01 10:23:38 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (9c09f15ee11fea2f7d568d79fa78b86a)] -> id: mobile-form-control]
+2025-10-01 10:23:38 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:23:38 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:23:38 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:23:38 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:23:38 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:24:32 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:24:32 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 10:24:32 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 10:24:33 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 10:24:33 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 10:24:33 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 10:24:34 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 10:24:34 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 10:25:17 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:25:17 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-01 10:25:18 INFO  main.TravelInsurance_Page - Navigated to EGS link.
+2025-10-01 10:25:18 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-01 10:25:24 INFO  main.TravelInsurance_Page - Entered Mobile number and number of employees.
+2025-10-01 10:25:24 INFO  stepdefinitions.TravelInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-01 10:25:25 WARN  main.TravelInsurance_Page - Click intercepted, trying JS click.
+2025-10-01 10:25:25 INFO  main.TravelInsurance_Page - Selected view plan instantly.
+2025-10-01 10:25:25 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-01 10:25:31 INFO  main.TravelInsurance_Page - Dialog is visible.
+2025-10-01 10:25:32 INFO  main.TravelInsurance_Page - Selected yes option.
+2025-10-01 10:25:32 INFO  stepdefinitions.TravelInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-01 10:25:32 INFO  main.TravelInsurance_Page - Company name entered.
+2025-10-01 10:25:32 INFO  stepdefinitions.TravelInsuranceSteps - Entered company name: CTS
+2025-10-01 10:25:33 INFO  main.TravelInsurance_Page - Clicked Continue button.
+2025-10-01 10:25:33 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Continue button.
+2025-10-01 10:25:35 INFO  main.TravelInsurance_Page - Clicked city Bengaluru.
+2025-10-01 10:25:35 INFO  stepdefinitions.TravelInsuranceSteps - Selected city: Bengaluru
+2025-10-01 10:25:35 INFO  main.TravelInsurance_Page - Clicked View Plans button.
+2025-10-01 10:25:35 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plans button.
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------plans---------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 10:25:41 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 10:25:41 INFO  stepdefinitions.TravelInsuranceSteps - -------------------------------------
+2025-10-01 10:36:52 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:36:52 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:36:52 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:36:53 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:36:53 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:36:53 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:36:56 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db7e974db2d8aa18a55a97ac0d6dd80e, isElementDisplayed {id=f.AE62F092ACABC7DB79FFB4DBD447B2FD.d.8B660969DA4336EE7BCDBB0CF71A6C3C.e.147}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49344}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49344/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: db7e974db2d8aa18a55a97ac0d6dd80e
+2025-10-01 10:36:57 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:36:57 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:36:57 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:37:09 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:37:09 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:37:09 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:37:19 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:37:19 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:37:19 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:37:20 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:37:20 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:37:20 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:37:20 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:37:20 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:37:20 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:37:21 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:37:21 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:37:21 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:37:22 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> id: name-form-control]
+2025-10-01 10:37:22 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (db7e974db2d8aa18a55a97ac0d6dd80e)] -> id: mobile-form-control]
+2025-10-01 10:37:22 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:37:22 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:37:22 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:37:22 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:37:22 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:41:52 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:41:52 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:41:52 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:41:53 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:41:53 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:41:53 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:41:56 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:41:56 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:41:56 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:42:07 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:42:07 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:42:07 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:42:17 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:42:17 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:42:17 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:42:18 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:42:18 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:42:18 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:42:18 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:42:18 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:42:18 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:42:19 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:42:19 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:42:19 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:42:20 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> id: name-form-control]
+2025-10-01 10:42:20 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (4dc092ea42853a530aabf9553c179d92)] -> id: mobile-form-control]
+2025-10-01 10:42:20 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:42:20 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:42:20 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:42:20 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:42:20 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:42:20 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\src\test\java\screenshots\error.png
+2025-10-01 10:42:20 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-01 10:46:40 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:46:40 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:46:40 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:46:41 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:46:41 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:46:41 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:46:42 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6d0443ca8bc745a12252b10e01aa08d, isElementDisplayed {id=f.AD8ACE205BF498CF702D66191425F091.d.7FE966477E543B08289B44A5B168680D.e.144}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63775}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63775/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: e6d0443ca8bc745a12252b10e01aa08d
+2025-10-01 10:46:44 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:46:44 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:46:44 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:46:55 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:46:55 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:46:55 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:47:05 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:47:05 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:47:05 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:47:05 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:47:05 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:47:05 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:47:06 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:47:06 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:47:06 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:47:07 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:47:07 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:47:07 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:47:08 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> id: name-form-control]
+2025-10-01 10:47:08 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (e6d0443ca8bc745a12252b10e01aa08d)] -> id: mobile-form-control]
+2025-10-01 10:47:08 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:47:08 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:47:08 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:47:08 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:47:08 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:47:08 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\src\test\resources\screenshots\error.png
+2025-10-01 10:47:08 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-01 10:49:09 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:49:09 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:49:09 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:49:10 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:49:10 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:49:10 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:49:13 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:49:13 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:49:13 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:49:25 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:49:25 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:49:25 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:49:36 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:49:36 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:49:36 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:49:36 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:49:36 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:49:36 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:49:37 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:49:37 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:49:37 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:49:37 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:49:37 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:49:37 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:49:38 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> id: name-form-control]
+2025-10-01 10:49:38 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (e7567a19e1588a1141ef75854b2dec0e)] -> id: mobile-form-control]
+2025-10-01 10:49:38 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:49:38 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:49:38 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:49:38 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:49:38 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:49:39 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\src\test\resources\screenshots\error.png
+2025-10-01 10:49:39 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-01 10:51:45 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:51:45 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 10:51:45 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 10:51:46 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 10:51:46 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 10:51:46 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 10:51:48 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [13fc8389173ee40edb2203c2f7507cf8, isElementDisplayed {id=f.3221124935F59D90A685D6F4F69CCEE5.d.03C33297882691067D5C877A7E4E1271.e.147}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62590}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62590/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: 13fc8389173ee40edb2203c2f7507cf8
+2025-10-01 10:51:50 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 10:51:50 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 10:51:50 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 10:52:01 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 10:52:01 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 10:52:01 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 10:52:12 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 10:52:12 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 10:52:12 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 10:52:12 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 10:52:12 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 10:52:12 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 10:52:13 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 10:52:13 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 10:52:13 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 10:52:14 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 10:52:14 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 10:52:14 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 10:52:14 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> id: name-form-control]
+2025-10-01 10:52:14 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (13fc8389173ee40edb2203c2f7507cf8)] -> id: mobile-form-control]
+2025-10-01 10:52:14 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-01 10:52:14 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-01 10:52:15 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-01 10:52:15 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-01 10:52:15 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-01 10:52:15 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\screenshots\error.png
+2025-10-01 10:52:15 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-01 10:53:07 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:53:07 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-01 10:53:07 INFO  main.TravelInsurance_Page - Navigated to EGS link.
+2025-10-01 10:53:07 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-01 10:53:15 INFO  main.TravelInsurance_Page - Entered Mobile number and number of employees.
+2025-10-01 10:53:15 INFO  stepdefinitions.TravelInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-01 10:53:16 WARN  main.TravelInsurance_Page - Click intercepted, trying JS click.
+2025-10-01 10:53:16 INFO  main.TravelInsurance_Page - Selected view plan instantly.
+2025-10-01 10:53:16 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-01 10:53:23 INFO  main.TravelInsurance_Page - Dialog is visible.
+2025-10-01 10:53:23 INFO  main.TravelInsurance_Page - Selected yes option.
+2025-10-01 10:53:23 INFO  stepdefinitions.TravelInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-01 10:53:24 INFO  main.TravelInsurance_Page - Company name entered.
+2025-10-01 10:53:24 INFO  stepdefinitions.TravelInsuranceSteps - Entered company name: CTS
+2025-10-01 10:53:25 INFO  main.TravelInsurance_Page - Clicked Continue button.
+2025-10-01 10:53:25 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Continue button.
+2025-10-01 10:53:26 INFO  main.TravelInsurance_Page - Clicked city Bengaluru.
+2025-10-01 10:53:26 INFO  stepdefinitions.TravelInsuranceSteps - Selected city: Bengaluru
+2025-10-01 10:53:26 INFO  main.TravelInsurance_Page - Clicked View Plans button.
+2025-10-01 10:53:26 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plans button.
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------plans---------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 10:53:32 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 10:53:32 INFO  stepdefinitions.TravelInsuranceSteps - -------------------------------------
+2025-10-01 10:54:20 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 10:54:20 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 10:54:20 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 10:54:21 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 10:54:21 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 10:54:21 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 10:54:22 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 10:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 11:55:44 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 11:55:44 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-01 11:55:44 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-01 11:55:45 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-01 11:55:45 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-01 11:55:45 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-01 11:55:51 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e7dd14bf6cee626e75ae37e928263b99, isElementDisplayed {id=f.7A9D67ECD58719568B6DA93D3662F728.d.2A2124957E7EC1F28C715FADDBDF8189.e.139}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64406}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64406/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: e7dd14bf6cee626e75ae37e928263b99
+2025-10-01 11:55:52 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-01 11:55:52 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-01 11:55:52 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-01 11:56:03 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-01 11:56:03 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-01 11:56:03 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-01 11:56:14 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-01 11:56:14 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-01 11:56:14 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-01 11:56:14 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-01 11:56:14 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-01 11:56:14 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-01 11:56:16 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-01 11:56:16 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-01 11:56:16 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-01 11:56:17 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (e7dd14bf6cee626e75ae37e928263b99)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-01 11:56:17 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-01 11:56:17 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-01 14:18:16 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:18:16 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:18:16 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:18:17 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:18:17 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:18:17 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:18:18 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:18:19 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:19:54 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:19:54 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:19:54 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:19:55 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:19:55 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:19:55 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:19:55 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:19:56 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:23:38 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:23:38 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:23:38 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:23:38 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:23:38 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:23:38 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:23:39 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:23:40 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:30:11 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:30:11 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:30:11 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:30:12 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:30:12 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:30:12 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:30:12 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:30:12 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:30:12 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:30:12 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:30:12 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:30:13 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:30:13 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:30:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:30:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:30:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:30:14 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:31:29 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:31:29 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:31:29 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:31:30 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:31:30 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:31:30 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:31:31 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:31:31 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:31:32 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:31:32 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:31:32 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:31:32 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:33:13 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:33:13 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:33:13 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:33:14 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:33:14 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:33:14 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:33:14 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:33:14 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:33:14 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:33:14 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:33:14 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:33:15 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:33:15 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:33:15 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:33:15 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:33:15 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:33:16 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:35:37 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:35:37 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:35:37 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:35:38 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:35:38 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:35:38 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:35:38 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:35:38 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:35:38 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:35:38 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:35:38 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:35:39 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:35:39 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:35:39 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:35:39 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:35:39 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:35:40 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:35:42 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:35:42 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:38:59 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:38:59 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:38:59 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:39:00 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:39:00 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:39:00 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:39:00 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:39:00 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:39:00 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:39:00 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:39:00 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:39:02 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:39:04 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:39:04 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:40:35 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:40:35 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:40:35 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:40:35 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:40:35 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:40:35 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:40:36 INFO  main.MedicalInsurancePage - Medical options are now visible.
+2025-10-01 14:40:36 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:40:36 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:40:36 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:40:36 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:40:36 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:40:37 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:40:40 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:40:40 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:44:20 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:44:20 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:44:20 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:44:21 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:44:21 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:44:21 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:44:21 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:44:21 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:44:21 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:44:25 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:44:25 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:47:11 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:47:11 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:47:11 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:47:12 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:47:12 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:47:12 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:47:12 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:47:12 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:47:14 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:47:14 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:47:35 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:47:35 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:47:35 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:47:36 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:47:36 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:47:36 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:47:36 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:47:36 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:47:38 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:47:38 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:51:35 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:51:35 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:51:35 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:51:36 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:51:36 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:51:36 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:51:36 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:51:36 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:51:36 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:51:36 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:51:40 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:51:40 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:53:59 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:54:04 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:54:21 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:54:21 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:54:21 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:54:21 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:54:21 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:54:21 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:54:22 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:54:22 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:54:23 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:54:25 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:54:25 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:58:28 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 14:58:28 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:58:28 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 14:58:29 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 14:58:29 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 14:58:29 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 14:58:29 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 14:58:29 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 14:58:29 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 14:58:29 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 14:58:29 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 14:58:30 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 14:58:30 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 14:58:30 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 14:58:30 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 14:58:30 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 14:58:31 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 14:58:33 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 14:58:33 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:01:55 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 15:01:55 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:01:55 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 15:01:56 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 15:01:56 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 15:01:56 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:01:56 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 15:01:56 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 15:01:56 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 15:01:56 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 15:01:56 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 15:01:57 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 15:01:57 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 15:01:57 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 15:01:57 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 15:01:57 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 15:01:58 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 15:02:00 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:02:00 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:04:56 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 15:04:56 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:04:56 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 15:04:57 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 15:04:57 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 15:04:57 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:04:58 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 15:04:58 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 15:04:58 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 15:04:58 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 15:04:58 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 15:04:59 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 15:05:02 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:05:02 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:05:02 ERROR main.MedicalInsurancePage - Error while fetching medical insurance options
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElements {using=xpath, value=//*[@id='tab-content1']/div[1]/div[2]/ul/li}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50552}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50552/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:151) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElements(DefaultElementLocator.java:83) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:36) ~[selenium-support-4.21.0.jar:?]
+	at jdk.proxy2.$Proxy32.iterator(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:263) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:260) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.21.0.jar:?]
+	at main.MedicalInsurancePage.fetchMedicalInsuranceOptions(MedicalInsurancePage.java:67) ~[classes/:?]
+	at Hooks.Hooks.writeExcelOnce(Hooks.java:40) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.Invoker.invokeStatic(Invoker.java:80) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:45) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.JavaStaticHookDefinition.execute(JavaStaticHookDefinition.java:49) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHook(Runner.java:113) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.lambda$executeHooks$3(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.ThrowableCollector.execute(ThrowableCollector.java:21) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHooks(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.runAfterAllHooks(Runner.java:94) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runAfterAllHooks(CucumberExecutionContext.java:98) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:150) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:79) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.run(Main.java:87) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.main(Main.java:30) [cucumber-core-7.28.2.jar:7.28.2]
+2025-10-01 15:09:31 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 15:09:31 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:09:31 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 15:09:32 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 15:09:32 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 15:09:32 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:09:33 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 15:09:33 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 15:09:33 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 15:09:33 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 15:09:33 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 15:09:34 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 15:09:37 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:09:37 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:09:37 ERROR main.MedicalInsurancePage - Error while fetching medical insurance options
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElements {value=//*[@id='tab-content1']/div[1]/div[2]/ul/li, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50911}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50911/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:151) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElements(DefaultElementLocator.java:83) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:36) ~[selenium-support-4.21.0.jar:?]
+	at jdk.proxy2.$Proxy32.iterator(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:263) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:260) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.21.0.jar:?]
+	at main.MedicalInsurancePage.fetchMedicalInsuranceOptions(MedicalInsurancePage.java:67) ~[classes/:?]
+	at Hooks.Hooks.writeExcelOnce(Hooks.java:40) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.Invoker.invokeStatic(Invoker.java:80) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:45) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.JavaStaticHookDefinition.execute(JavaStaticHookDefinition.java:49) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHook(Runner.java:113) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.lambda$executeHooks$3(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.ThrowableCollector.execute(ThrowableCollector.java:21) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHooks(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.runAfterAllHooks(Runner.java:94) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runAfterAllHooks(CucumberExecutionContext.java:98) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:150) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:79) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.run(Main.java:87) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.main(Main.java:30) [cucumber-core-7.28.2.jar:7.28.2]
+2025-10-01 15:21:49 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 15:21:49 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:21:49 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 15:21:50 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 15:21:50 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 15:21:50 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:21:51 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 15:21:51 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 15:21:51 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 15:21:51 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 15:21:51 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 15:21:52 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 15:21:54 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:21:54 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:21:54 ERROR main.MedicalInsurancePage - Error while fetching medical insurance options
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElements {using=xpath, value=//*[@id='tab-content1']/div[1]/div[2]/ul/li}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51789}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51789/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:151) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElements(DefaultElementLocator.java:83) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:36) ~[selenium-support-4.21.0.jar:?]
+	at jdk.proxy2.$Proxy32.iterator(Unknown Source) ~[?:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:263) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$9.apply(ExpectedConditions.java:260) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.21.0.jar:?]
+	at main.MedicalInsurancePage.fetchMedicalInsuranceOptions(MedicalInsurancePage.java:67) ~[classes/:?]
+	at Hooks.Hooks.writeExcelOnce(Hooks.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.Invoker.invokeStatic(Invoker.java:80) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:45) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.java.JavaStaticHookDefinition.execute(JavaStaticHookDefinition.java:49) ~[cucumber-java-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHook(Runner.java:113) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.lambda$executeHooks$3(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.ThrowableCollector.execute(ThrowableCollector.java:21) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.executeHooks(Runner.java:100) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runner.Runner.runAfterAllHooks(Runner.java:94) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runAfterAllHooks(CucumberExecutionContext.java:98) ~[cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:150) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:79) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.run(Main.java:87) [cucumber-core-7.28.2.jar:7.28.2]
+	at io.cucumber.core.cli.Main.main(Main.java:30) [cucumber-core-7.28.2.jar:7.28.2]
+2025-10-01 15:24:25 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 15:24:25 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 15:24:25 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 15:24:26 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 15:24:26 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 15:24:26 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 15:24:26 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 15:24:26 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 15:24:26 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 15:24:26 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 15:24:26 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 15:24:27 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 23:46:19 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:46:32 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:46:39 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-01 23:46:39 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-01 23:46:41 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-01 23:46:41 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-01 23:46:41 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-01 23:46:42 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-01 23:46:42 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-01 23:46:42 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-01 23:46:42 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-01 23:46:42 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-01 23:46:43 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-01 23:46:43 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-01 23:46:43 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-01 23:46:43 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-01 23:46:43 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-01 23:46:44 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-01 23:46:47 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:46:54 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-01 23:46:56 INFO  main.TravelInsurance_Page - Navigated to EGS link.
+2025-10-01 23:46:56 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-01 23:47:04 INFO  main.TravelInsurance_Page - Entered Mobile number and number of employees.
+2025-10-01 23:47:04 INFO  stepdefinitions.TravelInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-01 23:47:05 WARN  main.TravelInsurance_Page - Click intercepted, trying JS click.
+2025-10-01 23:47:05 INFO  main.TravelInsurance_Page - Selected view plan instantly.
+2025-10-01 23:47:05 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-01 23:47:11 INFO  main.TravelInsurance_Page - Dialog is visible.
+2025-10-01 23:47:12 INFO  main.TravelInsurance_Page - Selected yes option.
+2025-10-01 23:47:12 INFO  stepdefinitions.TravelInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-01 23:47:13 INFO  main.TravelInsurance_Page - Company name entered.
+2025-10-01 23:47:13 INFO  stepdefinitions.TravelInsuranceSteps - Entered company name: CTS
+2025-10-01 23:47:14 INFO  main.TravelInsurance_Page - Clicked Continue button.
+2025-10-01 23:47:14 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Continue button.
+2025-10-01 23:47:16 INFO  main.TravelInsurance_Page - Clicked city Bengaluru.
+2025-10-01 23:47:16 INFO  stepdefinitions.TravelInsuranceSteps - Selected city: Bengaluru
+2025-10-01 23:47:16 INFO  main.TravelInsurance_Page - Clicked View Plans button.
+2025-10-01 23:47:16 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plans button.
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------plans---------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 23:47:22 INFO  main.TravelInsurance_Page - -----------------------------
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-01 23:47:22 INFO  stepdefinitions.TravelInsuranceSteps - -------------------------------------
+2025-10-01 23:53:13 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:53:24 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:53:30 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-01 23:59:48 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 00:02:44 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 00:02:44 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-02 00:02:44 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-02 00:02:45 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-02 00:02:45 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-02 00:02:45 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 00:02:47 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53633eb5c2cfc344b5642465c90f08d7, isElementDisplayed {id=f.3846C5F31D573F90E16C4FA2FB1143EB.d.B3206140FE6F751FF056834C996CAB1D.e.143}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61489}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61489/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: 53633eb5c2cfc344b5642465c90f08d7
+2025-10-02 00:02:49 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-02 00:02:49 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-02 00:02:49 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 00:03:00 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-02 00:03:00 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-02 00:03:00 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 00:03:11 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-02 00:03:11 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-02 00:03:11 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 00:03:11 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-02 00:03:11 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-02 00:03:11 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 00:03:12 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-02 00:03:12 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-02 00:03:12 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 00:03:12 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-02 00:03:12 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-02 00:03:12 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 00:03:13 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> id: name-form-control]
+2025-10-02 00:03:13 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (53633eb5c2cfc344b5642465c90f08d7)] -> id: mobile-form-control]
+2025-10-02 00:03:13 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-02 00:03:13 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 00:06:08 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 00:06:08 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-02 00:06:08 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-02 00:06:09 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-02 00:06:09 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-02 00:06:09 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 00:06:10 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c31253abcca1a1029c0da7cbee353428, isElementDisplayed {id=f.CAF821F7DD0D28601B33B012CAA0BCD3.d.1D42966DC2FE0285B88A935B5D72B318.e.146}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57021}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57021/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: c31253abcca1a1029c0da7cbee353428
+2025-10-02 00:06:12 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-02 00:06:12 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-02 00:06:12 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 00:06:24 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-02 00:06:24 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-02 00:06:24 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 00:06:34 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-02 00:06:34 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-02 00:06:34 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 00:06:35 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-02 00:06:35 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-02 00:06:35 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 00:06:35 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-02 00:06:35 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-02 00:06:35 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 00:06:36 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-02 00:06:36 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-02 00:06:36 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 00:06:37 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> id: name-form-control]
+2025-10-02 00:06:37 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (c31253abcca1a1029c0da7cbee353428)] -> id: mobile-form-control]
+2025-10-02 00:06:37 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-02 00:06:37 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 00:06:37 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-02 00:06:37 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-02 00:06:37 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-02 00:06:38 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\screenshots\error.png
+2025-10-02 00:06:38 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-02 00:09:29 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 00:09:29 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-02 00:09:29 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-02 00:09:29 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-02 00:09:29 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 00:09:29 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-02 00:09:30 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-02 00:09:30 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 00:09:30 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 00:09:30 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 00:09:30 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 00:09:31 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 19:27:51 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:28:01 INFO  main.CarInsurance_Page - CarInsurance_Page initialized.
+2025-10-02 19:28:01 INFO  main.CarInsurance_Page - Page load complete.
+2025-10-02 19:28:02 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //div[@class='prd-block car']/a]
+2025-10-02 19:28:02 INFO  main.CarInsurance_Page - Navigated to Car Insurance section.
+2025-10-02 19:28:02 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 19:28:04 WARN  main.CarInsurance_Page - Retrying due to stale element: stale element reference: stale element not found in the current frame
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a26d9e2dec566b8c7e6f778ec4f67c08, isElementDisplayed {id=f.89DC04C6DFE52FF35C1BCA41A3F2C364.d.DB6AC6B18B8F5549476359B07DFC128C.e.147}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\2429884\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56234}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56234/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+Session ID: a26d9e2dec566b8c7e6f778ec4f67c08
+2025-10-02 19:28:06 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //span[@class='CarRegDetails_blueTextButton__P1blP blueTextButton fontMedium']]
+2025-10-02 19:28:06 INFO  main.CarInsurance_Page - Proceeded without car number.
+2025-10-02 19:28:06 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 19:28:18 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='truncate' and text()='Bangalore']'
+2025-10-02 19:28:18 INFO  main.CarInsurance_Page - Selected city: Bangalore.
+2025-10-02 19:28:18 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 19:28:28 INFO  main.CarInsurance_Page - Clicked element: Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='brandName' and text()='MAHINDRA']'
+2025-10-02 19:28:28 INFO  main.CarInsurance_Page - Selected brand: MAHINDRA.
+2025-10-02 19:28:28 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 19:28:29 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //li[normalize-space()='THAR']]
+2025-10-02 19:28:29 INFO  main.CarInsurance_Page - Selected model: THAR.
+2025-10-02 19:28:29 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 19:28:29 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //li[normalize-space()='Petrol']]
+2025-10-02 19:28:29 INFO  main.CarInsurance_Page - Selected fuel type: Petrol.
+2025-10-02 19:28:29 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 19:28:30 INFO  main.CarInsurance_Page - Clicked element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> xpath: //li[normalize-space()='LX 4-STR Hard Top Petrol AT RWD (1997 cc)']]
+2025-10-02 19:28:30 INFO  main.CarInsurance_Page - Selected variant: LX 4-STR Hard Top Petrol AT RWD.
+2025-10-02 19:28:30 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 19:28:31 INFO  main.CarInsurance_Page - Entered text 'John Doe' into element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> id: name-form-control]
+2025-10-02 19:28:31 INFO  main.CarInsurance_Page - Entered text '87676788' into element: [[ChromeDriver: chrome on windows (a26d9e2dec566b8c7e6f778ec4f67c08)] -> id: mobile-form-control]
+2025-10-02 19:28:31 INFO  main.CarInsurance_Page - Entered user details: Name = John Doe, Mobile = 87676788
+2025-10-02 19:28:31 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 19:28:31 WARN  main.CarInsurance_Page - Error message displayed: Enter a valid mobile number
+2025-10-02 19:28:31 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-02 19:28:31 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-02 19:28:31 INFO  main.CarInsurance_Page - Screenshot saved at: C:\Users\2429884\Downloads\PolicyBazar_Atomation-master\PolicyBazar_Atomation-master\screenshots\error.png
+2025-10-02 19:28:31 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-02 19:28:34 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:28:40 INFO  main.MedicalInsurancePage - MedicalInsurancePage initialized.
+2025-10-02 19:28:40 INFO  main.MedicalInsurancePage - Attempting to click 'View all products' link.
+2025-10-02 19:28:42 INFO  main.MedicalInsurancePage - 'View all products' link clicked.
+2025-10-02 19:28:42 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 19:28:42 INFO  main.MedicalInsurancePage - Fetching medical insurance options...
+2025-10-02 19:28:43 INFO  main.MedicalInsurancePage - Total options fetched: 6
+2025-10-02 19:28:43 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 19:28:43 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 19:28:43 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 19:28:43 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 19:28:44 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 19:28:46 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:28:53 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-02 19:28:54 INFO  main.TravelInsurance_Page - Navigated to EGS link.
+2025-10-02 19:28:54 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-02 19:50:16 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:50:25 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 19:50:29 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 19:50:31 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 19:50:31 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 19:50:32 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 19:50:32 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 19:50:33 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 19:50:34 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 19:50:34 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-02 19:50:34 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-02 19:50:34 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-02 19:50:36 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:50:46 INFO  stepdefinitions.TravelInsuranceSteps - TravelInsurance_Page initialized in @Before hook.
+2025-10-02 19:50:52 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-02 19:50:53 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-02 19:51:03 INFO  stepdefinitions.TravelInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-02 19:51:04 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-02 19:51:11 INFO  stepdefinitions.TravelInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-02 19:51:12 INFO  stepdefinitions.TravelInsuranceSteps - Entered company name: CTS
+2025-10-02 19:51:12 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Continue button.
+2025-10-02 19:51:14 INFO  stepdefinitions.TravelInsuranceSteps - Selected city: Bengaluru
+2025-10-02 19:51:14 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plans button.
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-02 19:51:19 INFO  stepdefinitions.TravelInsuranceSteps - -------------------------------------
+2025-10-02 20:12:12 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 20:12:15 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 20:12:16 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 20:12:17 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 20:12:17 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 20:12:18 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 20:12:19 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 20:12:21 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 20:12:21 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-02 20:12:21 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-02 20:12:21 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-02 20:12:33 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 20:12:34 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 20:12:34 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 20:12:34 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 20:12:34 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 20:12:36 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 20:12:36 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 20:12:36 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 20:12:36 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 20:12:36 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 20:12:37 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 20:12:47 INFO  stepdefinitions.TravelInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-02 20:12:49 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-02 20:12:56 INFO  stepdefinitions.TravelInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-02 20:12:57 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-02 20:13:02 INFO  stepdefinitions.TravelInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-02 20:13:02 INFO  stepdefinitions.TravelInsuranceSteps - Entered company name: CTS
+2025-10-02 20:13:03 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on Continue button.
+2025-10-02 20:13:04 INFO  stepdefinitions.TravelInsuranceSteps - Selected city: Bengaluru
+2025-10-02 20:13:04 INFO  stepdefinitions.TravelInsuranceSteps - Clicked on View Plans button.
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-02 20:13:11 INFO  stepdefinitions.TravelInsuranceSteps - -------------------------------------
+2025-10-02 20:25:21 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-02 20:25:25 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-02 20:25:26 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-02 20:25:27 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-02 20:25:27 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-02 20:25:28 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-02 20:25:28 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-02 20:25:29 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-02 20:25:29 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-02 20:25:29 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-02 20:25:30 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-02 20:25:37 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-02 20:25:39 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-02 20:25:46 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-02 20:25:47 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-02 20:25:53 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-02 20:25:53 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-02 20:25:54 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-02 20:25:55 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-02 20:25:55 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_Allianz@2x.png
+2025-10-02 20:26:01 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-02 20:26:11 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 20:26:12 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 20:26:12 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 20:26:12 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 20:26:12 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 20:26:13 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 20:30:06 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 20:30:06 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 20:30:06 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 20:30:06 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 20:30:06 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 20:30:07 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 20:30:07 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 20:30:07 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 20:30:07 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 20:30:07 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 20:30:08 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 20:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 20:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 20:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 20:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 20:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 20:34:05 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 20:34:05 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 20:34:05 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 20:34:05 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 20:34:05 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 20:34:06 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-02 20:35:53 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-02 20:35:54 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-02 20:35:55 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-03 15:10:34 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-03 15:10:37 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-03 15:10:38 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-03 15:10:39 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-03 15:10:39 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-03 15:10:40 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-03 15:10:41 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-03 15:10:42 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-03 15:10:42 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-03 15:10:42 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-03 15:10:42 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-03 15:10:50 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-03 15:10:51 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-03 15:11:00 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-03 15:11:02 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-03 15:11:08 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-03 15:11:08 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-03 15:11:09 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-03 15:11:11 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-03 15:11:11 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-03 15:11:12 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-03 15:11:12 WARN  stepdefinitions.EGHInsuranceSteps - No insurer details were extracted.
+2025-10-03 15:11:12 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-03 15:11:22 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-03 15:11:23 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-03 15:11:23 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-03 15:11:23 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-03 15:11:23 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-03 15:11:24 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-03 15:11:24 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-03 15:11:24 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-03 15:11:24 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-03 15:11:24 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-03 15:11:25 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-14 14:25:37 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-14 14:25:42 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-14 14:25:44 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-14 14:25:45 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-14 14:25:45 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-14 14:25:46 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-14 14:25:47 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-14 14:25:49 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-14 14:25:49 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-14 14:25:49 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-14 14:25:49 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-14 14:25:58 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-14 14:25:59 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-14 14:26:08 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-14 14:26:09 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-14 14:26:17 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-14 14:26:18 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-14 14:26:19 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-14 14:26:20 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-14 14:26:20 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-10-14 14:26:28 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-14 14:26:39 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-14 14:26:40 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-14 14:26:40 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-14 14:26:40 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-14 14:26:40 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-14 14:26:42 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-14 14:26:42 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-14 14:26:42 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-14 14:26:42 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-14 14:26:42 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-14 14:26:44 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-14 14:27:54 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-14 14:27:58 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-14 14:28:00 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-14 14:28:01 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-14 14:28:02 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-14 14:28:02 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-14 14:28:04 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-14 14:28:05 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-14 14:28:05 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-14 14:28:05 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-14 14:28:05 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-14 14:28:15 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-14 14:28:16 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-14 14:28:26 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-14 14:28:28 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-14 14:28:34 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-14 14:28:35 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-14 14:28:36 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-14 14:28:38 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-14 14:28:38 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-10-14 14:28:45 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-14 14:28:57 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-14 14:28:58 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-14 14:28:58 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-14 14:28:58 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-14 14:28:58 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-14 14:29:00 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-14 14:29:00 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-14 14:29:00 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-14 14:29:00 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-14 14:29:00 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-14 14:29:01 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-14 16:33:07 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-14 16:33:10 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-14 16:33:11 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-14 16:33:12 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-14 16:33:13 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-14 16:33:15 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-14 16:33:16 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-14 16:33:17 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-14 16:33:17 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-14 16:33:17 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-14 16:33:18 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-14 16:33:28 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-14 16:33:29 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-14 16:33:36 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-14 16:33:37 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-14 16:33:44 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-14 16:33:45 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-14 16:33:46 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-14 16:33:47 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-14 16:33:47 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-14 16:33:48 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-14 16:33:48 WARN  stepdefinitions.EGHInsuranceSteps - No insurer details were extracted.
+2025-10-14 16:33:48 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-14 16:34:01 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-14 16:34:03 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-14 16:34:03 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-14 16:34:03 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-14 16:34:03 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-14 16:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-14 16:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-14 16:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-14 16:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-14 16:34:04 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-14 16:34:06 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-15 05:32:38 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-15 05:33:10 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-15 05:33:11 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-15 05:33:18 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-15 05:33:19 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-15 05:33:25 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-15 05:33:25 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-15 05:33:26 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-15 05:33:27 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-15 05:33:27 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-10-15 05:33:33 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-15 05:33:47 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-15 05:33:48 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-15 05:33:48 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-15 05:33:48 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-15 05:33:48 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-15 05:33:50 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-15 05:33:50 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-15 05:33:50 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-15 05:33:50 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-15 05:33:50 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-15 05:33:51 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-15 06:17:59 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-15 06:18:03 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-15 06:18:04 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-15 06:18:05 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-15 06:18:06 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-15 06:18:07 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-15 06:18:08 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-15 06:18:09 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-15 06:18:10 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-15 06:18:10 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-15 06:18:10 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-15 06:18:33 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-15 06:18:35 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-15 06:18:35 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-15 06:18:35 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-15 06:18:35 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-15 06:18:37 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-15 06:18:37 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-15 06:18:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-15 06:18:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-15 06:18:37 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-15 06:18:38 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-10-15 08:29:38 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-10-15 08:29:42 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-10-15 08:29:43 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-10-15 08:29:44 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-10-15 08:29:45 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-10-15 08:29:46 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-10-15 08:29:47 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-10-15 08:29:49 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-10-15 08:29:49 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-10-15 08:29:49 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-10-15 08:29:49 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-10-15 08:30:02 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-10-15 08:30:03 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-10-15 08:30:13 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-10-15 08:30:14 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-10-15 08:30:23 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-10-15 08:30:24 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-10-15 08:30:24 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-10-15 08:30:26 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-10-15 08:30:26 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-10-15 08:30:32 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-10-15 08:30:47 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-10-15 08:30:48 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-10-15 08:30:48 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-10-15 08:30:48 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-10-15 08:30:48 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-10-15 08:30:49 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-10-15 08:30:49 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-10-15 08:30:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-10-15 08:30:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-10-15 08:30:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-10-15 08:30:51 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-11-26 13:34:44 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-11-26 13:34:48 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-11-26 13:34:49 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-11-26 13:34:50 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-11-26 13:34:51 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-11-26 13:34:52 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-11-26 13:34:53 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-11-26 13:34:54 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-11-26 13:34:55 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-11-26 13:34:55 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-11-26 13:34:55 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-11-26 13:35:06 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-11-26 13:35:07 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-11-26 13:35:17 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-11-26 13:35:18 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-11-26 13:35:24 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-11-26 13:35:25 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-11-26 13:35:25 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-11-26 13:35:27 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-11-26 13:35:27 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-11-26 13:35:34 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-11-26 13:35:46 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-11-26 13:35:47 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-11-26 13:35:47 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-11-26 13:35:47 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-11-26 13:35:47 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-11-26 13:35:49 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-11-26 13:35:49 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-11-26 13:35:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-11-26 13:35:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-11-26 13:35:49 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-11-26 13:35:51 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------
+2025-11-26 21:05:16 INFO  stepdefinitions.CarInsuranceSteps - Navigated to Policybazaar Car Insurance page.
+2025-11-26 21:05:20 INFO  stepdefinitions.CarInsuranceSteps - Proceeded without entering car number.
+2025-11-26 21:05:21 INFO  stepdefinitions.CarInsuranceSteps - Selected city.
+2025-11-26 21:05:22 INFO  stepdefinitions.CarInsuranceSteps - Selected car brand.
+2025-11-26 21:05:23 INFO  stepdefinitions.CarInsuranceSteps - Selected car model.
+2025-11-26 21:05:24 INFO  stepdefinitions.CarInsuranceSteps - Selected fuel type.
+2025-11-26 21:05:25 INFO  stepdefinitions.CarInsuranceSteps - Selected variant.
+2025-11-26 21:05:26 INFO  stepdefinitions.CarInsuranceSteps - Entered user details with name and invalid mobile number.
+2025-11-26 21:05:26 INFO  stepdefinitions.CarInsuranceSteps - Captured Error Message: Enter a valid mobile number
+2025-11-26 21:05:26 INFO  stepdefinitions.CarInsuranceSteps - Validated error message contains expected text.
+2025-11-26 21:05:27 INFO  stepdefinitions.CarInsuranceSteps - Captured screenshot of error message.
+2025-11-26 21:05:36 INFO  stepdefinitions.EGHInsuranceSteps - Navigated to Policybazaar website via @Before hook.
+2025-11-26 21:05:38 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Employee Group Health Insurance link.
+2025-11-26 21:05:47 INFO  stepdefinitions.EGHInsuranceSteps - Entered mobile number: 9876543210 and number of employees: 25
+2025-11-26 21:05:48 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plan Instantly.
+2025-11-26 21:05:53 INFO  stepdefinitions.EGHInsuranceSteps - Dialog appeared and user selected: Yes
+2025-11-26 21:05:54 INFO  stepdefinitions.EGHInsuranceSteps - Entered company name: CTS
+2025-11-26 21:05:54 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on Continue button.
+2025-11-26 21:05:56 INFO  stepdefinitions.EGHInsuranceSteps - Selected city: Bengaluru
+2025-11-26 21:05:56 INFO  stepdefinitions.EGHInsuranceSteps - Clicked on View Plans button.
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - ----- Extracted Insurer Details -----
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Aditya Birla Health, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Aditya_Birla@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: ICICI Lombard General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/ICICI_Lombard@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Magma General Insurance, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/MAGMA@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Niva Bupa, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Niva_Bupa@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Tata AIG, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Tata_AIG@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: SBI General, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/SBI@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Cholamandalam, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Cholamandalam@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - Insurer: Bajaj Allianz, Logo URL: https://static.pbcdn.in/sme-cdn/images/insurer-logo/v2/Bajaj_General@2x.png
+2025-11-26 21:06:03 INFO  stepdefinitions.EGHInsuranceSteps - -------------------------------------
+2025-11-26 21:06:15 INFO  stepdefinitions.MedicalInsuranceSteps - Navigated to 'View All Products' section.
+2025-11-26 21:06:15 INFO  stepdefinitions.MedicalInsuranceSteps - Fetched medical insurance options.
+2025-11-26 21:06:15 INFO  stepdefinitions.MedicalInsuranceSteps - Number of options fetched: 6
+2025-11-26 21:06:15 INFO  stepdefinitions.MedicalInsuranceSteps - --- Fetched Medical Insurance Options ---
+2025-11-26 21:06:15 INFO  stepdefinitions.MedicalInsuranceSteps - - Health
+2025-11-26 21:06:17 INFO  stepdefinitions.MedicalInsuranceSteps - - OPD
+2025-11-26 21:06:17 INFO  stepdefinitions.MedicalInsuranceSteps - - 1 Cr health
+Cover
+2025-11-26 21:06:17 INFO  stepdefinitions.MedicalInsuranceSteps - - Arogya
+Sanjeeva…
+2025-11-26 21:06:17 INFO  stepdefinitions.MedicalInsuranceSteps - - Family 
+Health Insurance
+2025-11-26 21:06:17 INFO  stepdefinitions.MedicalInsuranceSteps - - Cancer
+Insurance
+2025-11-26 21:06:18 INFO  stepdefinitions.MedicalInsuranceSteps - -----------------------------------------

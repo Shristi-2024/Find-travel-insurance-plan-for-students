@@ -1,0 +1,10 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"  As a Policybazaar user
+  I want to get a travel insurance quote
+  So that I can secure my trip","37172","Successfully navigate through the EGH insurance quote process","","2025-11-26","passed","2025-11-26","","EGH Insurance Quote Flow","Successfully navigate through the EGH insurance quote process",""
+"  As a user of Policybazaar
+  I want to get a car insurance quote
+  So that I can compare different insurance plans for my vehicle","25716","Verify Error Message for Invalid Mobile Number during Car Insurance Quote","","2025-11-26","passed","2025-11-26","","Car Insurance Quote Submission","Verify Error Message for Invalid Mobile Number during Car Insurance Quote",""
+"  As a Policybazaar user
+  I want to view various medical insurance options
+  So that I can choose the best plan for my health needs","14363","Verify display of medical insurance options","","2025-11-26","passed","2025-11-26","","Medical Insurance Options Retrieval","Verify display of medical insurance options",""

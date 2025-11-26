@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Policybazaar Automation Suite]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="Car Insurance Invalid Mobile Number Test(failed)" verbose="2">
+    <classes>
+      <class name="testngpackage.CarInsuranceTest">
+        <methods>
+          <include name="methodSetup"/>
+          <include name="verifyErrorMessageForInvalidMobileNumber"/>
+          <include name="setUp"/>
+          <include name="tearDownMethod"/>
+          <include name="shutDown"/>
+        </methods>
+      </class> <!-- testngpackage.CarInsuranceTest -->
+    </classes>
+  </test> <!-- Car Insurance Invalid Mobile Number Test(failed) -->
+  <test thread-count="5" name="Medical Insurance Options Verification Test(failed)" verbose="2">
+    <classes>
+      <class name="testngpackage.MedicalInsuranceTest">
+        <methods>
+          <include name="testMedicalInsuranceOptions"/>
+          <include name="methodSetup"/>
+          <include name="shutDown"/>
+          <include name="tearDownMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testngpackage.MedicalInsuranceTest -->
+    </classes>
+  </test> <!-- Medical Insurance Options Verification Test(failed) -->
+</suite> <!-- Failed suite [Policybazaar Automation Suite] -->

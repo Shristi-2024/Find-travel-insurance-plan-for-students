@@ -1,0 +1,8 @@
+main\CarInsurance_Page.class
+utilities\ExcelWriterUtil.class
+base\BaseClass.class
+main\MedicalInsurancePage.class
+utilities\ConfigReader.class
+main\BasePage.class
+main\TravelInsurance_Page.class
+utilities\MedicalInsuranceUtil.class
